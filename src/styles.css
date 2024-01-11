@@ -1,0 +1,22 @@
+body{
+  background:linear-gradient(to right  ,rgb(255, 170, 0),rgb(255, 111, 0),rgb(128, 64, 0));
+}
+.tooltip{
+  width: 250px;
+  margin: 50px auto;
+}
+.btn{
+  background:linear-gradient(to right  ,yellow,purple);
+  width: 300px;
+  height: 90px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+}
+.btn:hover{
+  cursor: pointer;
+  background:#f05a27;
+}
+h1{
+  text-align: center;
+  color: white;
+}
